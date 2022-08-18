@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cuyuniverse-smt2-sesi2/static/css/main.e6c13ad2.css",
+    "main.js": "/cuyuniverse-smt2-sesi2/static/js/main.8a20cada.js",
+    "static/js/787.fdf49e48.chunk.js": "/cuyuniverse-smt2-sesi2/static/js/787.fdf49e48.chunk.js",
+    "index.html": "/cuyuniverse-smt2-sesi2/index.html",
+    "main.e6c13ad2.css.map": "/cuyuniverse-smt2-sesi2/static/css/main.e6c13ad2.css.map",
+    "main.8a20cada.js.map": "/cuyuniverse-smt2-sesi2/static/js/main.8a20cada.js.map",
+    "787.fdf49e48.chunk.js.map": "/cuyuniverse-smt2-sesi2/static/js/787.fdf49e48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8a20cada.js"
+  ]
+}
